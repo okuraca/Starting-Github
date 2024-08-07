@@ -20,3 +20,7 @@ First repository created for IBM's Introduction to Git and GitHub class.
 
 https://www.coursera.org/learn/getting-started-with-git-and-github
 
+## Steps
+
+- Create a new file
+- Create a new branch, commit,pull and merge
