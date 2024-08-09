@@ -24,3 +24,4 @@ https://www.coursera.org/learn/getting-started-with-git-and-github
 
 - Create a new file
 - Create a new branch, commit,pull and merge
+- Clone repository to local 
